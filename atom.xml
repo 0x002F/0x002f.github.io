@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sarah&#39;s Action!</title>
+  <icon>https://www.gravatar.com/avatar/20ab0b6a72c83433af7daedba25a9347</icon>
+  <subtitle>文者称雄，武者称霸；九年四班，雄霸天下！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://0x002f.github.io/"/>
+  <updated>2018-10-05T08:37:06.969Z</updated>
+  <id>https://0x002f.github.io/</id>
+  
+  <author>
+    <name>233213fedf</name>
+    <email>233213fedf@163.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test2</title>
+    <link href="https://0x002f.github.io/posts/13bb8d58/"/>
+    <id>https://0x002f.github.io/posts/13bb8d58/</id>
+    <published>2018-10-05T08:11:11.000Z</published>
+    <updated>2018-10-05T08:37:06.969Z</updated>
+    
+    <content type="html"><![CDATA[<p>CKPlayer test:</p><center><embed src="/ckplayer/ckplayer.swf" flashvars="video=/res/IMG_9223.mp4" quality="high" width="480" height="400" align="middle" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash"></center>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;CKPlayer test:&lt;/p&gt;
+&lt;center&gt;&lt;embed src=&quot;/ckplayer/ckplayer.swf&quot; flashvars=&quot;video=/res/IMG_9223.mp4&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>更新： Go for it! 2 (ver 0.02, 2018/09/01)</title>
+    <link href="https://0x002f.github.io/posts/3a143207/"/>
+    <id>https://0x002f.github.io/posts/3a143207/</id>
+    <published>2018-09-02T03:41:58.000Z</published>
+    <updated>2018-09-02T03:49:36.856Z</updated>
+    
+    <content type="html"><![CDATA[<p><video id="bf01" src="/res/go2_002_91.webm" controls autoplay="false" border="0"></video></p><h1 id="主要内容"><a href="#主要内容" class="headerlink" title="主要内容"></a>主要内容</h1><a id="more"></a><p> 1、系统更新：<br>    （1）优化战斗系统；（相对于 2018/08/29）如上图所示。<br>    （2）其他 bug 修正。</p><pre><code>2018/09/02</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;video id=&quot;bf01&quot; src=&quot;/res/go2_002_91.webm&quot; controls autoplay=&quot;false&quot; border=&quot;0&quot;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;h1 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="Go for it!" scheme="https://0x002f.github.io/tags/Go-for-it/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“自主”前言，一派胡言！</title>
+    <link href="https://0x002f.github.io/posts/d38bef25/"/>
+    <id>https://0x002f.github.io/posts/d38bef25/</id>
+    <published>2018-08-24T02:10:46.000Z</published>
+    <updated>2018-08-24T02:44:13.496Z</updated>
+    
+    <content type="html"><![CDATA[<p>通过本文，了解“ALGC”的前言是如何的荒诞。</p><a id="more"></a><h1 id="第-1-段"><a href="#第-1-段" class="headerlink" title="第 1 段"></a>第 1 段</h1><h2 id="为了适应课程改革的需求，……最大限度地减轻学生的课业负担，……结合课改实验区的实际，我们编写了这套丛书。"><a href="#为了适应课程改革的需求，……最大限度地减轻学生的课业负担，……结合课改实验区的实际，我们编写了这套丛书。" class="headerlink" title="为了适应课程改革的需求，……最大限度地减轻学生的课业负担，……结合课改实验区的实际，我们编写了这套丛书。"></a>为了适应<em>课程改革的需求</em>，……<em>最大限度地减轻学生的课业负担</em>，……<em>结合课改实验区的实际</em>，我们编写了这套丛书。</h2><p>233：<br>为了更加适应本市教育部门的<strong>经济</strong>需求、最大限度地加重课业负担、为了不落实上级文件……市教委组织编写了本套所谓的“丛书”。<br>至于“<em>课改实验区</em>”，请看图：<br><img src="http://www.lyjy.gov.cn/images/zttp/kcgg.jpg" alt=""><br>（来自：临沂市教育局 <a href="http://www.lyjy.gov.cn/index.htm" target="_blank" rel="noopener">http://www.lyjy.gov.cn/index.htm</a>）</p><h1 id="第-2-段"><a href="#第-2-段" class="headerlink" title="第 2 段"></a>第 2 段</h1><h2 id="各学科均力求体现新课程的教育理念……在编写体例上，均按照“自主性探究”……三个板块编写。"><a href="#各学科均力求体现新课程的教育理念……在编写体例上，均按照“自主性探究”……三个板块编写。" class="headerlink" title="各学科均力求体现新课程的教育理念……在编写体例上，均按照“自主性探究”……三个板块编写。"></a>各学科均力求体现新课程的教育理念……在编写体例上，均按照“自主性探究”……三个板块编写。</h2><p>233：<br>各学科均力求体现所谓“自主学习”的理念，各科版本参差不齐，板块设计五花八门、乱七八糟，甚至文不对题（板块标题）。</p><h1 id="第-3-段"><a href="#第-3-段" class="headerlink" title="第 3 段"></a>第 3 段</h1><p>本段主要内容：<br>“启发引导学生主动学习”<br>“结合已有的生活经验主动学习新的知识”<br>“启发学生质疑、探究、创新”<br>“加强学习内容与学生生活及现代社会和科学发展的联系”<br>……</p><hr><p>233：<br>一句话概括本段：“一本正经的胡说八道”！</p><h1 id="第-4-段"><a href="#第-4-段" class="headerlink" title="第 4 段"></a>第 4 段</h1><h2 id="“恳请专家和读者批评指正。”"><a href="#“恳请专家和读者批评指正。”" class="headerlink" title="“恳请专家和读者批评指正。”"></a>“恳请专家和读者批评指正。”</h2><p>233：<br>读者？应该是“受害者”吧！<br>批评指正？错别字待在书上这么多年了也没见改正！</p><hr><p>总之，不要相信《自主》前言上的任何内容，除了带有“临沂市”的片段。</p><p>by 233213fedf,2018.8.24</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;通过本文，了解“ALGC”的前言是如何的荒诞。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="其他" scheme="https://0x002f.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="自主" scheme="https://0x002f.github.io/tags/%E8%87%AA%E4%B8%BB/"/>
+    
+      <category term="ALGC" scheme="https://0x002f.github.io/tags/ALGC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>对于 Go for it!（2018/04/01更新）的更新（2018/07/28）及完整版</title>
+    <link href="https://0x002f.github.io/posts/3d610b9e/"/>
+    <id>https://0x002f.github.io/posts/3d610b9e/</id>
+    <published>2018-07-28T07:01:35.000Z</published>
+    <updated>2018-07-28T07:13:12.346Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><ul><li>对 Minimap 的修改。</li><li>修复了一些 Bug。</li></ul><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>Patch：<a href="https://github.com/233213fedf/gofor-it1/releases/download/v1.1-18.07.28/G1PATCH-20180728.exe" target="_blank" rel="noopener">https://github.com/233213fedf/gofor-it1/releases/download/v1.1-18.07.28/G1PATCH-20180728.exe</a></p><p>完整版：<a href="https://pan.baidu.com/s/1ZHwGMfVCYWZokBvfkMKPlw" target="_blank" rel="noopener">https://pan.baidu.com/s/1ZHwGMfVCYWZokBvfkMKPlw</a></p><p> 2017.7.28</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;对 Minimap 的修改。&lt;/li&gt;
+&lt;li&gt;修复了一些 Bug。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;下载&quot;&gt;&lt;a hre
+      
+    
+    </summary>
+    
+      <category term="发布" scheme="https://0x002f.github.io/categories/%E5%8F%91%E5%B8%83/"/>
+    
+    
+      <category term="发布" scheme="https://0x002f.github.io/tags/%E5%8F%91%E5%B8%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于 Go for it! 2 Build 0.02</title>
+    <link href="https://0x002f.github.io/posts/21d88f64/"/>
+    <id>https://0x002f.github.io/posts/21d88f64/</id>
+    <published>2018-07-23T04:49:10.000Z</published>
+    <updated>2018-07-23T05:08:18.047Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="最近在做的"><a href="#最近在做的" class="headerlink" title="最近在做的"></a>最近在做的</h1><ul><li>事件<del>驱动的</del>菜单。<br>如下视频所示。</li></ul><video id="bf01" src="/res/go2002.webm" controls autoplay border="0"></video><p><a href="/res/go2002.webm">go2002.webm</a></p><ul><li>字体更改</li></ul><p>由最初的 <code>方正黑体_GBK</code> 改为 <code>方正宋三_GBK</code> 和 <code>Arno Pro</code>，中文用 <code>方正宋三_GBK</code>，英文用 <code>Arno Pro</code>。</p><p><img src="/img/go22.PNG" alt=""></p><p>如图，文字 <code>Sarah Null</code> 使用 <code>Arno Pro</code> 字体。</p><p>以上。</p><p>2018.7.23</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;最近在做的&quot;&gt;&lt;a href=&quot;#最近在做的&quot; class=&quot;headerlink&quot; title=&quot;最近在做的&quot;&gt;&lt;/a&gt;最近在做的&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;事件&lt;del&gt;驱动的&lt;/del&gt;菜单。&lt;br&gt;如下视频所示。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;video id=
+      
+    
+    </summary>
+    
+    
+      <category term="Go for it!" scheme="https://0x002f.github.io/tags/Go-for-it/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蒙阴三中赋</title>
+    <link href="https://0x002f.github.io/posts/9b4c0e15/"/>
+    <id>https://0x002f.github.io/posts/9b4c0e15/</id>
+    <published>2018-07-23T04:29:41.000Z</published>
+    <updated>2018-07-23T04:42:49.149Z</updated>
+    
+    <content type="html"><![CDATA[<p>原文出自<a href="http://www.my3edu.com" target="_blank" rel="noopener">http://www.my3edu.com</a></p><p>东山巍巍，汶水汤汤。<em>算圣故里，文脉源长。</em>钟灵毓秀，遄飞其光。浩哉三中，气象泱泱。地造其秀，天设其庠。<strong><em>斯校始于公元一九九七年。</em></strong>弘人文而济时势，两换其名。<strong>逢新政而扬其姿，易地三方。</strong>先行者，披荆斩棘，筚路蓝缕。后继人，高屋建瓴，士气昂扬。<a href="about:blank" target="_blank" rel="noopener">承前贤之开拓，滋兰树蕙。</a> 择新址而领潮，鼓帆起航。君不见群楼环映，池阁回廊。云松修竹，郁郁苍苍。青青子衿，代有脱颖之学士；累累硕果，每得出众之俊郎。  </p><hr><p>峥嵘世纪，杏坛馨香。以人为本，和德蕴芳。</p><p>为师者，</p><blockquote><p>合作、探索、求实、创新，</p></blockquote><p>身正垂范，燃红烛而隽永；</p><p>为学者，</p><blockquote><p>铭责、笃行、立志、成才，</p></blockquote><p>秉承校训，飞神思于华章。全校戮力，共襄教学伟业。师生一心，同举虎步龙骧。木铎振彻，金声激荡。欣欣学府，凤翥龙翔，跻身省级之示范；秀出群伦，佳绩屡创，更倾功业之煌煌。  </p><hr><p>嗟夫！三中。维德维才，蕴玉衔璋。文教风行，日新月昌。杏坛明珠兮熠熠，教泽雍穆兮堂堂！岁次甲午，七月未央，曷胜感慨，乃赋以彰！  </p><hr><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$(<span class="built_in">document</span>).ready(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    alert(<span class="string">'hello world'</span>);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;原文出自&lt;a href=&quot;http://www.my3edu.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.my3edu.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;东山巍巍，汶水汤汤。&lt;em&gt;算圣故里，文脉源长。&lt;/em&gt;钟灵毓秀，遄飞其
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://0x002f.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Autonomous learning guidance course（自主学习指导课程）八上 历史</title>
+    <link href="https://0x002f.github.io/posts/4c570aec/"/>
+    <id>https://0x002f.github.io/posts/4c570aec/</id>
+    <published>2018-06-23T03:42:07.000Z</published>
+    <updated>2018-07-10T08:25:28.466Z</updated>
+    
+    <content type="html"><![CDATA[<p>同步八下历史的答案:<br><a href="/pdf/autonomous-learning-guidance-course-8a-chinese-history-answer-fyi.pdf">autonomous-learning-guidance-course-8a-chinese-history-answer-fyi.pdf</a><br><div class="row">    <embed src="/pdf/autonomous-learning-guidance-course-8a-chinese-history-answer-fyi.pdf" width="100%" height="550" type="application/pdf"></div></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;同步八下历史的答案:&lt;br&gt;&lt;a href=&quot;/pdf/autonomous-learning-guidance-course-8a-chinese-history-answer-fyi.pdf&quot;&gt;autonomous-learning-guidance-course-8a
+      
+    
+    </summary>
+    
+      <category term="其他" scheme="https://0x002f.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="自主" scheme="https://0x002f.github.io/tags/%E8%87%AA%E4%B8%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Core Values Encoder</title>
+    <link href="https://0x002f.github.io/posts/e112fee3/"/>
+    <id>https://0x002f.github.io/posts/e112fee3/</id>
+    <published>2018-06-18T04:22:14.000Z</published>
+    <updated>2018-07-27T05:54:23.285Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><p>近来逛Github看到这么个Repo:<a href="https://github.com/sym233/core-values-encoder/" target="_blank" rel="noopener">core-values-encoder</a>。<br>（作者为sym233）</p><p>看到Core values（可译为“核心价值观”），好像明白了什么……</p><p>打开后，（<a href="https://sym233.github.io/core-values-encoder/" target="_blank" rel="noopener">链接</a>）界面如图所示。<br><img src="/img/cve2.PNG" alt="1"><br>额，看来是编解码工具。</p><p>我先打个 <code>Sarah&#39;s Action</code> 试试，然后点 <code>Decode</code> ……<br><img src="/img/cve1.PNG" alt="2"></p><p>服了，用核心价值观编码信息……</p><p>另外，github上还有个Chrome扩展“Core Values Encoder Plugin”（如图），可以在浏览器中直接使用:<br><img src="/img/cve3.PNG" alt="3"><br>呵呵，如果这东西真能推广，<del>以后整个网络会是多么和谐……</del><br>最后，学以致用——</p><p>“平等和谐公正民主法治文明公正民主公正爱国文明法治法治和谐文明富强自由民主公正和谐法治自由公正敬业公正友善敬业公正诚信自由”</p><p><a href="https://github.com/yatyricky/core-values-encoder-crx" target="_blank" rel="noopener">Core Values Encoder Plugin下载</a>（作者为yatyricky）</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;近来逛Github看到这么个Repo:&lt;a href=&quot;https://github.com/sym233/core-values-encoder/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;core-values-
+      
+    
+    </summary>
+    
+      <category term="其他" scheme="https://0x002f.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="core values" scheme="https://0x002f.github.io/tags/core-values/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[发布]Go for it! 1.1</title>
+    <link href="https://0x002f.github.io/posts/164db782/"/>
+    <id>https://0x002f.github.io/posts/164db782/</id>
+    <published>2018-06-17T07:55:25.000Z</published>
+    <updated>2018-07-22T14:18:13.972Z</updated>
+    
+    <content type="html"><![CDATA[<div id="badge-container-233213fedf-gofor-it1-c52ecb" class="hexo-github" style="width: 100%"></div><script src="/hexo-github/badge.js"></script><script type="text/javascript">  loadStyle("/hexo-github/style.css");  loadStyle("/hexo-github/octicons/octicons.css");  new Badge("#badge-container-233213fedf-gofor-it1-c52ecb", "233213fedf", "gofor-it1", "c52ecb", false);</script><p>名称： 《Go for it!》<br><a id="more"></a><br>大小： 约 138 MB<br>发布时间： 2018.2.29<br>下载地址： <a href="https://pan.baidu.com/s/1c31P9DI" target="_blank" rel="noopener">https://pan.baidu.com/s/1c31P9DI</a>；密码jten<br>其他： <a href="https://rpg.blue/forum.php?mod=viewthread&amp;tid=405815" target="_blank" rel="noopener">https://rpg.blue/forum.php?mod=viewthread&amp;tid=405815</a></p><p>截图<br><img src="/img/go1-1.PNG" alt=""><br><img src="/img/go1-2.PNG" alt=""><br><img src="/img/go1-3.PNG" alt=""><br><img src="/img/go1-4.PNG" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;div id=&quot;badge-container-233213fedf-gofor-it1-c52ecb&quot; class=&quot;hexo-github&quot; style=&quot;width: 100%&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;/hexo-github/badge.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  loadStyle(&quot;/hexo-github/style.css&quot;);
+  loadStyle(&quot;/hexo-github/octicons/octicons.css&quot;);
+  new Badge(&quot;#badge-container-233213fedf-gofor-it1-c52ecb&quot;, &quot;233213fedf&quot;, &quot;gofor-it1&quot;, &quot;c52ecb&quot;, false);
+&lt;/script&gt;
+
+&lt;p&gt;名称： 《Go for it!》&lt;br&gt;
+    
+    </summary>
+    
+      <category term="发布" scheme="https://0x002f.github.io/categories/%E5%8F%91%E5%B8%83/"/>
+    
+    
+      <category term="发布" scheme="https://0x002f.github.io/tags/%E5%8F%91%E5%B8%83/"/>
+    
+      <category term="游戏" scheme="https://0x002f.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+      <category term="原创" scheme="https://0x002f.github.io/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
+  
+</feed>
